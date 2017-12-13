@@ -7,12 +7,12 @@ Rejoins nous pour  discuter entre passionés de sécurité informatique!
 ### Quand
 
 ```markdown
- - **Le 17 Janvier 2018, de 19h30 à 00h00**
+ - Le 17 Janvier 2018, de 19h30 à 00h00
 ```
 
 ### Où
 
 ```markdown
-- **Bar à déterminer**
+- Bar à déterminer
 - Rennes - Bretagne - France
 ```
