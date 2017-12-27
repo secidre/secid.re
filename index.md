@@ -1,8 +1,9 @@
 ## SeCidre
 
 Marre de boire ta bouteille de cidre seul dans ton coin?
+D'ailleurs, le cidre est-il breton, normand ou basque?
 
-Rejoins nous pour  discuter entre passionés de sécurité informatique!
+Rejoins nous pour discuter entre passionés de sécurité informatique!
 
 ### Quand
 
@@ -13,6 +14,7 @@ Rejoins nous pour  discuter entre passionés de sécurité informatique!
 ### Où
 
 ```markdown
-- Bar à déterminer
+- Oan's Pub
+- 1 Rue Georges Dottin
 - Rennes - Bretagne - France
 ```
