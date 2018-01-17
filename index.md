@@ -3,7 +3,7 @@
 Marre de boire ta bouteille de cidre seul dans ton coin?
 D'ailleurs, le cidre est-il breton, normand ou basque?
 
-Rejoins nous pour discuter entre passionés de sécurité informatique!
+Rejoins nous pour discuter entre passionnés de sécurité informatique!
 
 ### Quand
 
