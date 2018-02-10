@@ -8,7 +8,7 @@ Rejoins nous pour discuter entre passionnés de sécurité informatique!
 ### Quand
 
 ```markdown
- - Le 17 Janvier 2018, de 19h30 à 00h00
+ - Le 28 Mars 2018, de 19h30 à 00h00
 ```
 
 ### Où
@@ -17,4 +17,10 @@ Rejoins nous pour discuter entre passionnés de sécurité informatique!
 - Oan's Pub
 - 1 Rue Georges Dottin
 - Rennes - Bretagne - France
+```
+
+### Historique
+
+```markdown
+- 17 Janvier 2018 - Oan's Pub
 ```
