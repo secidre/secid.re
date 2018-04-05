@@ -13,7 +13,7 @@ Rejoins nous pour discuter entre passionnés de sécurité informatique!
 
 ### Thème
 
-La prochaine édition sera thématisée, l'idée étant de discuter autour des challenges réalisés ou en cours de réalisation. Pas de spoil à espérer mais à minima de l'entraide et de l'aiguillage! 
+La prochaine édition sera thématisée, l'idée étant de discuter autour des challenges réalisés ou en cours de réalisation. Pas de spoil à espérer mais, à minima, de l'entraide et de l'aiguillage! 
 
 ```markdown
 - Exploitation 
