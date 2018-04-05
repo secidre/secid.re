@@ -8,7 +8,15 @@ Rejoins nous pour discuter entre passionnés de sécurité informatique!
 ### Quand
 
 ```markdown
- - Le 28 Mars 2018, de 19h30 à 00h00
+ - Le 16 Mai 2018, de 19h30 à 00h00
+```
+
+### Thème
+
+La prochaine édition sera thématisée, l'idée étant de discuter autour des challenges réalisés ou en cours de réalisation. Pas de spoil à espérer mais à minima de l'entraide et de l'aiguillage! 
+
+```markdown
+- Exploitation 
 ```
 
 ### Où
@@ -23,4 +31,5 @@ Rejoins nous pour discuter entre passionnés de sécurité informatique!
 
 ```markdown
 - 17 Janvier 2018 - Oan's Pub
+- 28 Mars 2018 - Oan's Pub
 ```
