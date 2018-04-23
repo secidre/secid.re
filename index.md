@@ -8,7 +8,7 @@ Rejoins nous pour discuter entre passionnés de sécurité informatique!
 ### Quand
 
 ```markdown
- - Le 16 Mai 2018, de 19h30 à 00h00
+ - Le 23 Mai 2018, de 19h30 à 00h00
 ```
 
 ### Thème
